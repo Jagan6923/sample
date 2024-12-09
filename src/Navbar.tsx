@@ -7,7 +7,7 @@ function BasicExample() {
     <Navbar expand="lg" className="bg-dark navbar-dark shadow-lg">
       <Container>
         <Navbar.Brand href="#home" className="fs-3 fw-bold text-light">
-          SecuroSphee
+          SecuroSphere
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
